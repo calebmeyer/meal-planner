@@ -1,0 +1,67 @@
+name,category,breakfasty,lunchy,dinnery,feeds_a_crowd
+Tacos,Mexican,No,Yes,Yes,Yes
+Breakfast Burritos,Breakfast,Yes,Yes,Yes,No
+Spaghetti,Pasta,No,Yes,Yes,No
+Philly Cheesesteak Sandwiches,American,No,Yes,Yes,Yes
+Enchiladas,Mexican,No,No,Yes,Yes
+Brats,American,No,Yes,Yes,No
+Burgers,American,No,Yes,Yes,Yes
+Quesadillas,Mexican,No,Yes,Yes,Yes
+Ziti,Pasta,No,No,Yes,Yes
+Fettuccine Alfredo,Pasta,No,Yes,Yes,No
+Goulash,Pasta,No,Yes,Yes,No
+Beef and Vegetable Stew,Comfort,No,No,Yes,No
+Chicken and Noodles,Comfort,No,No,Yes,No
+Oven Fry Chicken Strips,American,No,No,Yes,No
+Hot Dogs,American,No,Yes,Yes,Yes
+Pizza (bought),Italian,No,Yes,Yes,Yes
+Calzones,Italian,No,Yes,Yes,No
+Pizza Sliders,Italian,No,Yes,Yes,Yes
+Pizza (homemade),Italian,No,Yes,Yes,No
+Pulled Pork Sandwiches,American,No,Yes,Yes,No
+"Roast, Potatoes, and Carrots",Comfort,No,No,Yes,No
+Hot Ham and Cheese,Sandwich,No,Yes,Yes,No
+Hot Italian Subs,Sandwich,No,Yes,Yes,Yes
+Chicken Cacciatore,Italian,No,No,Yes,No
+Chicken Madeira,Italian,No,No,Yes,No
+Biscuits and Gravy,Breakfast,Yes,Yes,Yes,Yes
+Pancakes,Breakfast,Yes,Yes,Yes,Yes
+Waffles,Breakfast,Yes,Yes,Yes,Yes
+French Toast,Breakfast,Yes,Yes,Yes,Yes
+Breakfast Sandwiches,Breakfast,Yes,Yes,Yes,No
+Deli Sandwiches,Sandwich,No,Yes,Yes,Yes
+Tomato Spinach Chicken Spaghetti,Pasta,No,Yes,Yes,No
+Macaroni and Cheese,Pasta,No,Yes,Yes,No
+BBQ Chicken Sandwiches,American,No,No,Yes,Yes
+Stromboli,Italian,No,No,Yes,No
+Lasagna,Pasta,No,No,Yes,Yes
+Baked Tortellini,Pasta,No,Yes,Yes,No
+Grilled Chicken,American,No,No,Yes,No
+Spinach Stuffed Chicken,American,No,No,Yes,No
+Grilled Cheese,Sandwich,No,Yes,Yes,Yes
+Soup,Comfort,No,Yes,Yes,No
+Easy Beef Burrito Skillet,Mexican,No,No,Yes,No
+Pesto Cavatappi,Pasta,No,No,Yes,No
+Skillet Pasta,Pasta,No,No,Yes,No
+One Pan Sausage and Tortellini,Pasta,No,No,Yes,No
+Southwest Chicken with Corn Salsa,Mexican,No,Yes,Yes,No
+Cheddar Chicken Strips,American,No,No,Yes,No
+Chip Breaded Chicken Strips,American,No,No,Yes,No
+Fettuccine with Roasted Pepper Sauce,Pasta,No,No,Yes,No
+Sheet Pan Nachos,Mexican,No,Yes,Yes,Yes
+Sheet Pan Lemon Rosemary Chicken,American,No,No,Yes,No
+Slow Cooker Chicken Burrito Bowl,Mexican,No,No,Yes,Yes
+Irish Pub Nachos,Comfort,No,No,Yes,Yes
+Creamy Garlic Penne Pasta,Pasta,No,No,Yes,No
+Hearty Rigatoni with Italian Sausage,Pasta,No,No,Yes,No
+Philly Cheesesteak Foil Packs,American,No,Yes,Yes,No
+Philly Cheesesteak Triangles,American,No,Yes,Yes,No
+Pizza Rolls,Italian,No,Yes,Yes,No
+KFC Bowl,Comfort,No,No,Yes,No
+Baked Chili Dogs,American,No,Yes,Yes,Yes
+Chili,Comfort,No,No,Yes,Yes
+Steak,American,No,No,Yes,No
+Patty Melts,Sandwich,No,Yes,Yes,No
+Omelets,Breakfast,Yes,Yes,Yes,No
+Angel Hair Pasta with Herbs,Pasta,No,Yes,Yes,No
+Tomato Basil Penne,Pasta,No,Yes,Yes,No
